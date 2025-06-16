@@ -1,3 +1,4 @@
+
 ## Airthmatic Operators
 #a=10
 #b=15
@@ -91,11 +92,18 @@ result=a and b
 print(result)
 
 # Or
-#  
+  
 a= False
 b= False
-result=a and b
+result=a or b
 print(result) 
 
 # Not
+a=True
+result=not a
+print(result)
 
+
+a=False
+result=not a
+print(result)
