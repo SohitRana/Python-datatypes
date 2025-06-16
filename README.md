@@ -35,23 +35,25 @@ Video Outline;
 # i m learning python operators
 
 Introduction Operators
+
 1 Airthmatic Operators
-    (a) Addition
-    (b)Subtraction
-    (c)Multiplication
-    (d)Dividion
-    (e)Florr Division
-    (f)Modulus
-    (g)Exponentiation
+    * Addition
+    * Subtraction
+    * Multiplication
+    * Dividion
+    * Florr Division
+    * Modulus
+    * Exponentiation
+
 2 Comparison Operators
-    (a)Equal to
-    (b)Not equal to
-    (c)Greator than
-    (d)Less than
-    (e)Greator than or equal to
-    (f)Less than or equal to
+    * Equal to
+    * Not equal to
+    * Greator than
+    * Less than
+    * Greator than or equal to
+    * Less than or equal to
+
 3 Logical Operators
-    (a)And
-    (b)Or
-    (c)Not
-    
+    * And
+    * Or
+    * Not
