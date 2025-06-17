@@ -32,7 +32,7 @@ Video Outline;
 6. Practical Examples
 
 # Python- Operators
-# i m learning python operators
+# i m learning python operators  -->
 
 Introduction Operators
 
@@ -57,3 +57,15 @@ Introduction Operators
     * And
     * Or
     * Not
+
+## Conditional Statements (if,elif,else)
+
+Video outline
+1. Introduction
+2. if statement
+3. elif statement 
+4. else statement
+5. Nested conditional statement
+5. Practical Examples
+6. Common  Errors and Best Practices
+
